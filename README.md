@@ -9,7 +9,6 @@ Demo project for springboot
 Запустим IDE склонируем проект - https://github.com/kremlsa/SpringBoot_Demo
 Создадим свою ветку - new branch
 Отредактируем файл .gitignore, воспользуемся сервисом https://www.toptal.com/developers/gitignore
-![image](https://user-images.githubusercontent.com/55805583/152956003-9b3ca63d-0e1e-4e0f-99e8-9ae3c55dc821.png)
 Скопируем в gitignore в проект
 Скопируем содержимое папки demo в корневую папку проекта в ide
 Перейдем к файлу pom.xml И правой кнопкой - add as a maven project
@@ -24,7 +23,7 @@ Demo project for springboot
 			<version>6.1.0.Final</version>
 		</dependency>
 обновить проект скачать зависимости
-Создать 2 класса (брать здесь ) 
+Создать 2 класса (брать здесь https://github.com/kremlsa/SpringBoot_Demo/tree/sasha/src) 
 SimpleController, SimpleRequestDTO
 Запустить проект т проверить через postman
 ![image](https://user-images.githubusercontent.com/55805583/152962033-d395ac4e-18c0-413b-b267-ae9a880bb277.png)
